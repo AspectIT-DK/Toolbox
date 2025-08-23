@@ -1,4 +1,4 @@
-# Enable File Sharing through firewall
+# Enable File Sharing
 Set-NetfirewallRule -Name "FPS-SMB-In-TCP" -Enabled True
 
 # Fallback / Debug - Enable all File Sharing Services (Bad practice)
