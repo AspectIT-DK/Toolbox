@@ -7,9 +7,9 @@ Evaluation periods and lab environments are usually allowed however. Microsoft o
 
  1. Open Powershell as Administrator
  2. Run this code:
-		```
-		Invoke-RestMethod https://get.activated.win | Invoke-Expression 
-		```
+```
+Invoke-RestMethod https://get.activated.win | Invoke-Expression 
+```
  4. Navigate the menus to activate Windows using the method you want
 
 :information_source: How does it work? [Go to MAS Tool Github](https://github.com/massgravel/Microsoft-Activation-Scripts)
