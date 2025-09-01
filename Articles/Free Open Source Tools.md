@@ -4,20 +4,23 @@ FREE OPEN SOURCE TOOLS
 ## BROWSER-BASED TOOLS
 
 ### Cyberchef
+
 Cyberchef is an in-browser data analysis tool. 
 Use cases: Useful for network administrators to visualize IP ranges. Useful for visualizing regular expressions - and much more!
 
-:link: [Go to the online tool](https://cyberchef.vaultwarden.ca/cyberchef)
+[:link: Go to the online tool](https://cyberchef.vaultwarden.ca/cyberchef)
 
 ### IT-Tools
+
 This is an in-browser toolbox with a huge assortment of tools. API utilities, unit converters, text formatters, regex testers, network calculators. Many great tools for data analysis and development work.
 
-:link: [Go to the online tool](https://sharevb-it-tools.vercel.app/) [by [sharevb](https://github.com/sharevb)]
+[:link: Go to the online tool](https://sharevb-it-tools.vercel.app/) [by [sharevb](https://github.com/sharevb)]
 
 ## SOFTWARE
 
 ### SysInternals Suite
-:floppy_disk: [Download from Microsoft Official](https://download.sysinternals.com/files/SysinternalsSuite.zip) [by [Mark Russinovich](https://learn.microsoft.com/en-us/sysinternals/)] [[Github](https://github.com/Sysinternals/sysinternals)]
+
+[:floppy_disk: Download from Microsoft Official](https://download.sysinternals.com/files/SysinternalsSuite.zip) [by [Mark Russinovich](https://learn.microsoft.com/en-us/sysinternals/)] [[Github](https://github.com/Sysinternals/sysinternals)]
 <details>
 <summary>Tools in the suite</summary>
 
@@ -64,14 +67,20 @@ This is an in-browser toolbox with a huge assortment of tools. API utilities, un
 </details>
 
 ### OpenProject
+
 OpenProject is an in-browser open source project management software.
 They provide paid [hosted solutions](https://www.openproject.org/pricing/), but you can self-host it for free.
 
-:floppy_disk: [Go to installation guide](https://www.openproject.org/docs/installation-and-operations/installation/) 
-:page_facing_up: [Go to documentation](https://www.openproject.org/docs/)
-
+[:floppy_disk: Go to installation guide](https://www.openproject.org/docs/installation-and-operations/installation/) 
 
 ### Vaultwarden
+
 Vaultwarden is an in-browser password manager, that is self-hostable, open source and completely free. Has user and organizational segmentation for logins while still being centrally managed. 
 
-:floppy_disk: [Go to their github](https://github.com/dani-garcia/vaultwarden)
+[:floppy_disk: Go to their github](https://github.com/dani-garcia/vaultwarden)
+
+### BookStack
+
+BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
+
+[:floppy_disk: Go to installation guide](https://www.bookstackapp.com/docs/admin/installation/)
