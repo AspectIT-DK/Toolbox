@@ -1,29 +1,23 @@
+FREE OPEN SOURCE TOOLS
+====
 
-# Free Open Source Tools
+## BROWSER-BASED TOOLS
 
-## Vaultwarden
-Vaultwarden is a password manager, that is self-hostable, open source and completely free.
-Use cases: When you need a password manager, with user and organizational segmentation but centrally controlled access.
-
-[Go to their github](https://github.com/dani-garcia/vaultwarden)
-
-## Cyberchef
+### Cyberchef
 Cyberchef is an in-browser data analysis tool. 
 Use cases: Useful for network administrators to visualize IP ranges. Useful for visualizing regular expressions - and much more!
 
-[Go to the online tool](https://cyberchef.vaultwarden.ca/cyberchef)
+:link: [Go to the online tool](https://cyberchef.vaultwarden.ca/cyberchef)
 
-## IT-Tools
+### IT-Tools
 This is an in-browser toolbox with a huge assortment of tools. API utilities, unit converters, text formatters, regex testers, network calculators. Many great tools for data analysis and development work.
 
-[Go to the online tool](https://sharevb-it-tools.vercel.app/) 
+:link: [Go to the online tool](https://sharevb-it-tools.vercel.app/) [by [sharevb](https://github.com/sharevb)]
 
-[by [sharevb](https://github.com/sharevb)]
+## SOFTWARE
 
-## SysInternals Suite
-[Download from Microsoft Official](https://download.sysinternals.com/files/SysinternalsSuite.zip)
-
-[by [Mark Russinovich](https://learn.microsoft.com/en-us/sysinternals/)] [[Github](https://github.com/Sysinternals/sysinternals)]
+### SysInternals Suite
+:floppy_disk: [Download from Microsoft Official](https://download.sysinternals.com/files/SysinternalsSuite.zip) [by [Mark Russinovich](https://learn.microsoft.com/en-us/sysinternals/)] [[Github](https://github.com/Sysinternals/sysinternals)]
 <details>
 <summary>Tools in the suite</summary>
 
@@ -68,3 +62,16 @@ This is an in-browser toolbox with a huge assortment of tools. API utilities, un
 | **WhoIs**                     | Query domain registration info                         |
 
 </details>
+
+### OpenProject
+OpenProject is an in-browser open source project management software.
+They provide paid [hosted solutions](https://www.openproject.org/pricing/), but you can self-host it for free.
+
+:floppy_disk: [Go to installation guide](https://www.openproject.org/docs/installation-and-operations/installation/) 
+:page_facing_up: [Go to documentation](https://www.openproject.org/docs/)
+
+
+### Vaultwarden
+Vaultwarden is an in-browser password manager, that is self-hostable, open source and completely free. Has user and organizational segmentation for logins while still being centrally managed. 
+
+:floppy_disk: [Go to their github](https://github.com/dani-garcia/vaultwarden)
