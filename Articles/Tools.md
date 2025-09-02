@@ -1,7 +1,14 @@
-FREE OPEN SOURCE TOOLS
+TOOLS
 ====
+|INDEX|
+|:--|
+|[LIVE BROWSER-BASED TOOLS](#LIVE-BROWSER-BASED-TOOLS)|
+|[SYSTEM UTILITIES](#SYSTEM-UTILITIES)|
+|[DATA UTILITIES](#DATA-UTILITIES)|
+|[PRODUCTIVITY SOFTWARE](#PRODUCTIVITY-SOFTWARE)|
 
-## BROWSER-BASED TOOLS
+
+## LIVE BROWSER-BASED TOOLS
 
 ### Cyberchef
 
@@ -18,13 +25,14 @@ This is an in-browser toolbox with a huge assortment of tools. API utilities, un
 
 &nbsp;
 
-## SOFTWARE
+## SYSTEM UTILITIES
 
 ### SysInternals Suite
 
-[:floppy_disk: Download from Microsoft Official](https://download.sysinternals.com/files/SysinternalsSuite.zip) [by [Mark Russinovich](https://learn.microsoft.com/en-us/sysinternals/)] [[Github](https://github.com/Sysinternals/sysinternals)]
+[:floppy_disk: Download from Microsoft Official](https://learn.microsoft.com/en-us/sysinternals/downloads/) [by [Mark Russinovich](https://learn.microsoft.com/en-us/sysinternals/)] [[Github](https://github.com/Sysinternals/sysinternals)]
+
 <details>
-<summary>Tools in the suite</summary>
+<summary><strong>Click to expand list</strong></summary>
 
 | **Tool**                      | **Function**                                           |
 | ----------------------------- | ------------------------------------------------------ |
@@ -67,6 +75,22 @@ This is an in-browser toolbox with a huge assortment of tools. API utilities, un
 | **WhoIs**                     | Query domain registration info                         |
 
 </details>
+
+|Tool|Description|Link|
+|:--|:--|--:|
+|HWMonitor|HWMonitor is hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, powers, currents, fans speed, utilizations, clock speeds.|[:floppy_disk: Download from CPUID Official](https://www.cpuid.com/softwares/hwmonitor.html)|
+|WizTree|WizTree is a very high speed disk space analyzer utility for Windows. It scans your hard drive and shows you which files and folders are using the most disk space. Your entire hard drive's file system is displayed visually.|[:floppy_disk: Download from DiskAnalyzer Official](https://www.diskanalyzer.com/download)|
+|CPU-Z|CPU-Z is a freeware that gathers information on some of the main devices of your system. Processor name and number, codename, process, package, cache levels. Mainboard, chipset, memory type and more.|[:floppy_disk: Download from CPUID Official](https://www.cpuid.com/softwares/cpu-z.html)|
+|GPU-Z|GPU-Z is a lightweight utility designed to give you all information about your video card and GPU.|[:floppy_disk: Download from TechPowerUp Official](https://www.techpowerup.com/download/techpowerup-gpu-z/)|
+
+## DATA UTILITIES
+
+|Tools|Description|Link|
+|:--|:--|--:|
+|FFmpeg|FFmpeg is able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.|[:floppy_disk: Download from FFmpeg Official](https://ffmpeg.org/download.html)|
+|Audacity|Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.|[:floppy_disk: Download from Audacity Official](https://www.audacityteam.org/download/windows/)|
+
+## PRODUCTIVITY SOFTWARE
 
 ### OpenProject
 
