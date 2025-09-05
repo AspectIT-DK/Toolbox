@@ -1,4 +1,3 @@
-
 TOOLS
 ====
 |:bookmark_tabs: INDEX|
@@ -41,6 +40,7 @@ TOOLS
 |OpenProject|OpenProject is an in-browser open source project management software. They provide paid [hosted solutions](https://www.openproject.org/pricing/), but you can self-host it for free.|[:floppy_disk: Go to installation guide](https://www.openproject.org/docs/installation-and-operations/installation/)|
 |VaultWarden|Vaultwarden is an in-browser password manager, that is self-hostable, open source and completely free. Has user and organizational segmentation for logins while still being centrally managed.|[:floppy_disk: Go to their github](https://github.com/dani-garcia/vaultwarden)|
 |BookStack|BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.|[:floppy_disk: Go to installation guide](https://www.bookstackapp.com/docs/admin/installation/)|
+|Snipe-IT|Snipe-IT is an open source, free, self-hostable IT Asset management system. They provide paid [hosted solutions](https://snipeitapp.com/pricing) with enterprise support.|[:floppy_disk: Go to their github](https://github.com/grokability/snipe-it/releases/tag/v8.3.1)|
 
 
 
