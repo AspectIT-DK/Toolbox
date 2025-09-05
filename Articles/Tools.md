@@ -3,13 +3,13 @@ TOOLS
 ====
 |:bookmark_tabs: INDEX|
 |:--|
-|[LIVE BROWSER-BASED TOOLS](#black_medium_square-live-browser-based-tools)|
-|[SYSTEM UTILITIES](#black_medium_square-SYSTEM-UTILITIES)|
-|[DATA UTILITIES](#black_medium_square-DATA-UTILITIES)|
-|[PRODUCTIVITY SOFTWARE](#black_medium_square-PRODUCTIVITY-SOFTWARE)|
+|[Live Browser-Based Tools](#black_medium_square-live-browser-based-tools)|
+|[System Utilities](#black_medium_square-SYSTEM-UTILITIES)|
+|[Data Utilities](#black_medium_square-DATA-UTILITIES)|
+|[Productivity Software](#black_medium_square-PRODUCTIVITY-SOFTWARE)|
 
 
-## :black_medium_square: LIVE BROWSER-BASED TOOLS
+## :black_medium_square: Live Browser-Based Tools
 
 | Tool | Description | Link |
 |:--|:--|--:|
@@ -17,7 +17,7 @@ TOOLS
 | IT-Tools | In-browser toolbox with a huge assortment of tools by [sharevb](https://github.com/sharevb). API utilities, unit converters, text formatters, regex testers, network calculators. Many great tools for data analysis and development work.|[:link: Go to the online tool](https://sharevb-it-tools.vercel.app/)|
 
 
-## :black_medium_square: SYSTEM UTILITIES
+## :black_medium_square: System Utilities
 
 |Tool|Description|Link|
 |:--|:--|--:|
@@ -27,14 +27,14 @@ TOOLS
 |CPU-Z|CPU-Z is a freeware that gathers information on some of the main devices of your system. Processor name and number, codename, process, package, cache levels. Mainboard, chipset, memory type and more.|[:floppy_disk: Download from CPUID Official](https://www.cpuid.com/softwares/cpu-z.html)|
 |GPU-Z|GPU-Z is a lightweight utility designed to give you all information about your video card and GPU.|[:floppy_disk: Download from TechPowerUp Official](https://www.techpowerup.com/download/techpowerup-gpu-z/)|
 
-## :black_medium_square: DATA UTILITIES
+## :black_medium_square: Data Utilities
 
 |Tool|Description|Link|
 |:--|:--|--:|
 |FFmpeg|FFmpeg is able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.|[:floppy_disk: Download from FFmpeg Official](https://ffmpeg.org/download.html)|
 |Audacity|Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.|[:floppy_disk: Download from Audacity Official](https://www.audacityteam.org/download/windows/)|
 
-## :black_medium_square: PRODUCTIVITY SOFTWARE
+## :black_medium_square: Productivity Software
 
 |Tool|Description|Link|
 |:--|:--|--:|
